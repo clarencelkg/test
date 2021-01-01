@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-<?php echo "Hello World! change is on it way "; ?>
+<?php echo "Hello World! "; ?>
 <?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?><br /><br />
 <?php
 }
